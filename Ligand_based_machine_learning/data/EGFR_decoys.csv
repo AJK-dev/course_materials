@@ -21,7 +21,7 @@
 "C15673518","c1ccc(SCc2onc(C[C@@H]3[C@H](CC(NCc4cc5OCOc5cc4)=O)CCNC3)c2)cc1"
 "C63529258","COc1cc=2c(=NCC2CCN3C(=S)N(c4ccccc4)C(=O)[C@H]3CC(Nc5ccccc5)=O)cc1"
 "C38903376","Cc1cc=2c(=NC([C@@H](CN(C(c3ccc(C(C)(C)C)cc3)=O)c4c(C)ccc(C)c4)C2)=O)cc1"
-"C01050667","c1cc(N(O)=O)cc(-c2oc(C(NC(Nc3c(N4CCCC4)c(Cl)ccc3)=S)=O)cc2)c1"
+"C01050667","c1cc(cc(c1)[N+](=O)[O-])c2ccc(o2)C(=O)NC(=S)Nc3cccc(c3N4CCCC4)Cl"
 "C66264640","Cn1ncc(-c2scc(Cn3nc(-c4c(F)cccc4)ccc3=O)n2)c1"
 "C27498061","CC([C@@H](NC(c1c(F)cccc1F)=O)C(NC[C@H](N2CCCCC2)c3occc3)=O)C"
 "C03172279","COc1c(COc2c(N)cccc2)cccc1COc3c(N)cccc3"
